@@ -1,0 +1,13 @@
+.webring {
+  position: fixed;
+  z-index: 1000000;
+  bottom: 0;
+  font-family: "courier new";
+  width: 110px;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  font-size: 3px;
+  text-align: right;
+  transform: translate(300px,320px);
+
